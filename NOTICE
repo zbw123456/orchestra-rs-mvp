@@ -1,0 +1,22 @@
+Orchestra Rust MVP
+
+This experimental local project is inspired by and was developed after inspecting:
+  Orchestra — https://github.com/wayyoungboy/Orchestra
+  Commit: 2c9347858d2285ee128cdf8335420e1b4c52555b
+  Original copyright: Copyright (c) 2026 wayyoungboy
+  License: MIT (exact text retained in licenses/Orchestra-MIT.txt)
+
+The Rust, Python and TypeScript implementation in this project is newly written
+for an independent MVP. It is not an official release, a full translation, an
+upstream-compatible replacement, or a claim of endorsement by wayyoungboy.
+The original Go/Vue implementation is not redistributed in this deliverable.
+The original license text is the copied upstream artifact. Design concepts and
+module responsibilities informed this implementation; the differences and
+unported capabilities are recorded in docs/UPSTREAM.md.
+
+Upstream's README credits seeksky/golutra for design inspiration. This project
+preserves that acknowledgment; no golutra source was copied into this MVP.
+
+New implementation: Copyright (c) 2026 Orchestra Rust MVP contributors.
+Released under the MIT terms in LICENSE. Third-party dependencies retain their
+own licenses; Cargo.lock and frontend/package-lock.json record resolved versions.

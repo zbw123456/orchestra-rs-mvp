@@ -1,0 +1,8 @@
+[
+  {
+    "name": "text",
+    "program": "/absolute/path/to/python3",
+    "args": ["/absolute/path/to/orchestra-rs-mvp/examples/text_agent.py"],
+    "cwd": "/absolute/path/to/orchestra-rs-mvp"
+  }
+]
